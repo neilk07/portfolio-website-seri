@@ -265,8 +265,8 @@ section {
 
 .home-sci {
  position: absolute;
- bottom: 2rem;
- width: 10.5rem;
+ bottom: 40px;
+ width: 170px;
  display: flex;
  justify-content: space-between;
 }
@@ -791,7 +791,7 @@ span {
   }
 
   .home-sci {
-    margin-top: 8rem;
+    margin-top: 125px;
   }
   
 
