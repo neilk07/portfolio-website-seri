@@ -791,8 +791,7 @@ span {
   }
 
   .home-sci a {
-    /* Existing styles */
-    margin-top: 140px; /* Adjust this value as needed */
+    top: 140px;
   }
   
 
