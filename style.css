@@ -617,7 +617,7 @@ span {
 .contact {
   min-height: auto;
   padding-bottom: 7rem;
-  margin-bottom: 5.5rem;
+  margin-bottom: 7rem;
 }
 
 .contact form {
@@ -791,7 +791,8 @@ span {
   }
 
   .home-sci {
-    margin-top: 125px;
+   bottom: 10px;
+   margin-top: 125px;
   }
   
 
