@@ -265,7 +265,7 @@ section {
 
 .home-sci {
  position: absolute;
- bottom: 10px;
+ bottom: 40px;
  width: 170px;
  display: flex;
  justify-content: space-between;
@@ -791,7 +791,7 @@ span {
   }
 
   .home-sci {
-    top: 40px;
+    margin-top: 40px;
   }
   
 
