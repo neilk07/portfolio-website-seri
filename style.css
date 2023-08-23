@@ -758,6 +758,49 @@ span {
   }
 }
 
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+   /* Adjusting header and h1 font size */
+  .header .logo {
+    font-size: 2rem; /* Adjust the font size as needed */
+  }
+
+  .home-content h1 {
+    margin-top: 1rem;
+    font-size: 4rem; /* Adjust the font size as needed */
+  }
+
+  .home-content .btn-box a {
+    width: 150px;
+    margin: 0.5rem 0;
+    gap: 1rem;
+    margin-top: 2.5rem;
+    margin-bottom: auto;
+  }
+
+  .home-sci {
+    /*position: static;
+    display: flex;*/
+    justify-content: space-between;
+    margin-top: 5.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .home-sci a {
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    margin: 0;
+  }
+
+  /* Adjusting text padding */
+  .home-content p {
+    margin-top: 0.5rem;
+    padding-right: 15%; /* You can adjust this value as needed */
+    font-size: 14px; /* You can adjust this value as needed */
+  }
+}
+
+ 
 @media (max-width : 991px) {
   .header {
     padding: 2rem 4%;
@@ -777,10 +820,10 @@ span {
 }
 
 
-.menu-toggle {
+/*.menu-toggle {
   display: none;
   cursor: pointer;
-}
+}*/
 
 
 @media (max-width: 768px) {
